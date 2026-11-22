@@ -1,6 +1,6 @@
 # Restaurar snapshot e publicar aplicação no Apache2
 
-Este guia descreve como restaurar um snapshot de uma máquina virtual no VirtualBox e instalar/publicar a aplicação do repositório indicado num servidor Ubuntu.
+Este guia descreve como restaurar um snapshot de uma máquina virtual no VirtualBox e instalar/publicar a aplicação do repositório indicado em um servidor Ubuntu.
 
 > **Atenção:** restaurar um snapshot repõe a máquina no estado em que estava quando o snapshot foi criado. Alterações posteriores — incluindo ficheiros e configurações — podem ser perdidas. Faça cópias de segurança antes de avançar.
 
